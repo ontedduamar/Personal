@@ -19,7 +19,7 @@
 		<password>Temasek@2018</password>
 		<!-- #passed in argument -->
 		<cloudhub.application.name>thtest</cloudhub.application.name>
-		<environment>DEVELOPMENT</environment>
+		<environment>Development</environment>
 	</properties>
 
 	<build>
