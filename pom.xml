@@ -15,8 +15,8 @@
 		<mule.maven.plugin.version>3.1.6</mule.maven.plugin.version>
 		<munit.version>2.1.4</munit.version>
 		<mule.version>4.1.4</mule.version>
-		<username>v_ifs_abhaysingh.y@partners.temasek.com.sg</username>
-		<password>P@ss1234</password>
+		<username>ontedduamar</username>
+		<password>Amar$2019</password>
 		<!-- #passed in argument -->
 		<cloudhub.application.name>thtest</cloudhub.application.name>
 		<environment>Development</environment>
@@ -33,7 +33,7 @@
 				<configuration>
 					<!-- CloudHub Deployment -->
 					<cloudHubDeployment>
-						<uri>https://anypoint.mulesoft.com/accounts/login/compaz </uri>
+						<uri>https://anypoint.mulesoft.com/</uri>
 						<artifact>thtest.jar</artifact>
 						<muleVersion>${mule.version}</muleVersion>
 						<username>${username}</username>
