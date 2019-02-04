@@ -34,7 +34,7 @@
 					<!-- CloudHub Deployment -->
 					<cloudHubDeployment>
 						<uri>https://anypoint.mulesoft.com/</uri>
-						<artifact>thtest.jar</artifact>
+						<artifact>thtst.jar</artifact>
 						<muleVersion>${mule.version}</muleVersion>
 						<username>${username}</username>
 						<password>${password}</password>
