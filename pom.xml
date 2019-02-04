@@ -19,7 +19,7 @@
 		<password>Temasek@2018</password>
 		<!-- #passed in argument -->
 		<cloudhub.application.name>thtest</cloudhub.application.name>
-		<environment>Sandbox</environment>
+		<environment>DEVELOPMENT</environment>
 	</properties>
 
 	<build>
@@ -42,7 +42,7 @@
 						<environment>${environment}</environment>
 						<!-- <region>us-east-2</region> -->
 						<!-- <businessGroup>ORG\SUB_ORG</businessGroup> -->
-						<businessGroup>Temasek</businessGroup>
+						<businessGroup>Temasek Holding Pte Ltd</businessGroup>
 					</cloudHubDeployment>
 				</configuration>
 			</plugin>
