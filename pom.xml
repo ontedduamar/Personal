@@ -19,7 +19,7 @@
 		<password>Amar$2019</password>
 		<!-- #passed in argument -->
 		<cloudhub.application.name>thtest</cloudhub.application.name>
-		<environment>Development</environment>
+		<environment>Sandbox</environment>
 	</properties>
 
 	<build>
